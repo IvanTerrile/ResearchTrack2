@@ -8,7 +8,7 @@ This is a repository for all the project of Research Track 2 University of Genoa
 The first part of the First Assignment of Research Track 2 University of Genoa Course is to create the documentation of the First Assignment of Research Track 
 1 University of Genoa Course. The First Assignment of Research Track 1 University of Genoa Course is a project that simulates a robot that moves in a 2D space 
 and grasp silver token and put it near golden token.
-The documentation is created using Sphinx and it is available in the folder `Docs` in this repository and also in the ResearchTrack1 repository or at this link: <a href="https://ivanterry00.github.io/ResearchTrack2/">https://ivanterry00.github.io/ResearchTrack2/</a>
+The documentation is created using Sphinx and it is available in the folder `Docs` in this repository or in  the folder `Docs` of ResearchTrack1 repository and in any case at this link: <a href="https://ivanterry00.github.io/ResearchTrack2/">https://ivanterry00.github.io/ResearchTrack2/</a>
 
 ----------------------------------------------------------------------------------
 ### First Assignment of RT2 (Part Two: Jupyter Notebook)
